@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pure CSS Grid Background Animation | Crimson
+# Animated Pagination with JS | Crimson
 
 <img src="admin/base.png">
 
